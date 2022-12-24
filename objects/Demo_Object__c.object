@@ -184,5 +184,15 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+     <fields>
+        <fullName>Email</fullName>
+        <externalId>false</externalId>
+        <label>Email</label>
+        <length>50</length>
+        <required>true</required>
+        <trackTrending>false</trackTrending>
+        <type>Email</type>
+        <unique>true</unique>
+    </fields>
    
 </CustomObject>
